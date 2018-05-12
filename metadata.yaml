@@ -1,0 +1,46 @@
+_repo: M-rchen-Sammlung_23787
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Bechstein, Ludwig
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '26033'
+    url: http://www.gutenberg.org/2009/agents/26033
+    wikipedia: http://de.wikipedia.org/wiki/Ludwig_Bechstein
+  illustrator:
+    agent_name: Fahringer, Karl
+    gutenberg_agent_id: '26032'
+    url: http://www.gutenberg.org/2009/agents/26032
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Fraungruber, Hans
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '26031'
+    url: http://www.gutenberg.org/2009/agents/26031
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23787'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'PT'
+- !lcc 'GR'
+tableOfContents: "Der Wolf und die sieben Geißlein\r\nDer Schmied von Jüterbog\r\n\
+  Der Hase und der Fuchs\r\nDer beherzte Flötenspieler\r\nDer Wettlauf zwischen dem\
+  \ Hasen und dem Igel\r\nDas Kätzchen und die Stricknadeln\r\nDer goldene Rehbock\r\
+  \nDie drei Federn\r\nDer kleine Däumling\r\nDas Natterkrönlein\r\nDer fette Lollus\
+  \ und der magere Lollus\r\nGevatterin Kröte\r\nZwergenmützchen\r\nDie Kornähren"
+title: Märchen-Sammlung
+url: http://www.gutenberg.org/ebooks/23787
